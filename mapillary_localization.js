@@ -11,9 +11,8 @@
     });
     $translateProvider.translations("de", {
       LANDING: {
-        TITLE: "Ich bin ein Berliner."
+        TITLE: "Bilder für alle."
       },
-      FOO: "Ich bin ein Berliner.",
       BUTTON_LANG_EN: "Englisch",
       BUTTON_LANG_DE: "Deutsch"
     });
