@@ -142,3 +142,49 @@ manualUpload:
   myUploads: "My Uploads"
   addedSoon: "they will soon be added to the map"
   uploadMore: "Upload More"
+i18nSettings:
+  settings: "Settings"
+  profile: "Profile"
+  notifications: "Notifications"
+  organizations: "Organizations"
+  projects: "Projects"
+  applications: "Applications"
+  newApplication: "New application"
+  profilePicture: "Profile picture"
+  username: "Username"
+  about: "About"
+  changePassword: "Change Password"
+  members: "Members"
+  delete: "Delete"
+  addNewUser: "Add new user"
+  add: "Add"
+  projects: "Projects"
+  create: "Create"
+  managedBy: "Managed by"
+  members: "Members"
+  developerApplications: "Developer Applications"
+  registerNewApplication: "Register new application"
+  applicationCanAccess: "Application can access"
+  users: "Users"
+  authorizedApplications: "Authorized Applications"
+  access: "Access"
+  revoke: "Revoke"
+  revokeAll: "Revoke All"
+  applicationName: "Application Name"
+  company: "Company"
+  companyUrl: "Company URL"
+  callbackUrl: "Callback URL"
+  description: "Description"
+  updateApplication: "Update Application"
+  deleteApplication: "Delete Application"
+  createApplication: "Create Application"
+  chooseFile: "Choose File"
+
+
+
+
+
+
+
+
+
