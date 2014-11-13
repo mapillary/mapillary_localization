@@ -1,4 +1,5 @@
-LANDING:
-  TITLE: "Bilder für alle."
-BUTTON_LANG_EN: "Englisch"
-BUTTON_LANG_DE: "Deutsch"
+search:
+  header: "Bilder für alle."
+navbar:
+  button_lang_en: "Englisch"
+  button_lang_de: "Deutsch"
