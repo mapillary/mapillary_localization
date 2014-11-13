@@ -211,6 +211,22 @@
         summer: "Summer",
         autumn: "Autumn",
         trafficSigns: "Filter Traffic Signs"
+      },
+      i18nIm: {
+        aboutToFlag: "You are about to flag this image for manual inspection by Mapillary.",
+        processingNotice: "This image hasn’t finished processing yet! It will look better soon, promise.",
+        share: "Share",
+        whatProblem: "What is the problem?",
+        imageRotated: "The image is rotated",
+        imageNotBlurred: "The image is not blurred correctly",
+        imageShouldHide: "The image should be hidden",
+        sequenceShouldSplit: "The sequence should be split here",
+        ifMapillaryUser: "If you're a Mapillary user, you can manually hide the image from within the 'Edit' image options",
+        send: "Send",
+        panorama: "Panorama",
+        flagged: "Flagged",
+        exitPanorama: "Exit Panorama",
+        lostFound: "This could be your image. Due to some app problems with Andriod App version 24 we are unable to determine the uploader of this image. If this is you. Make a comment below or send us an email at hello@mapillary.com."
       }
     });
     $translateProvider.translations("de", {
