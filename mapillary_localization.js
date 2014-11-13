@@ -107,6 +107,15 @@
         toplistsTitle: "Toplists by Region/Country",
         toplistsParagraph: "Browse and explore top contributors by region and/or country.",
         latestUploads: "Latest Uploads"
+      },
+      profile: {
+        uploads: "Uploads",
+        connections: "Connections",
+        editProfile: "Edit profile",
+        uploadedImages: "uploaded images",
+        metersMapped: "meters mapped",
+        stillProcessing: "still processing",
+        recentActivity: "Recent Activity"
       }
     });
     $translateProvider.translations("de", {
