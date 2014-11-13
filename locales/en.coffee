@@ -86,3 +86,13 @@ navbar:
   or: "or"
   log_in: "Log In"
   sign_up: "Sign Up"
+explore:
+  title: "Explore"
+  top5: "Top 5 mappers"
+  lastWeek: "Last week"
+  thisWeek: "This week"
+  user: "user"
+  noOfImg: "Number of images"
+  toplistsTitle: "Toplists by Region/Country"
+  toplistsParagraph: "Browse and explore top contributors by region and/or country."
+  latestUploads: "Latest Uploads"
