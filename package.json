@@ -1,0 +1,11 @@
+{
+  "name": "mapillary_localization",
+  "description": "Localization of Mapillary",
+  "version": "0.0.1",
+  "dependencies": {
+    "grunt": "0.4.0",
+    "grunt-bake": "~0.3.12",
+    "grunt-cli": "~0.1.6",
+    "grunt-contrib-coffee": "~0.4.0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "mapillary_localization",
+  "main": "mapillary_localization.js",
+  "version": "1.0.0",
+  "authors": [
+    "Johan Gyllenspetz <gyllen@mapillary.com>"
+  ],
+  "description": "Localization for Mapillary",
+  "keywords": [
+    "mapillary"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.mapillary.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
