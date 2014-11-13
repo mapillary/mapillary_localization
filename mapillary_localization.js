@@ -59,7 +59,7 @@
         section2Future: "Record a place for the future to show what it looked like at a point in time, like this",
         section2Coastal: "coastal town.",
         section2NoCars: "Map an area that cannot be reached with street view cars, like the lovely",
-        section2_venice: "Venice Beach canals,",
+        section2Venice: "Venice Beach canals,",
         section2Unmapped: "or the unmapped",
         section2Fishing: "Venice Fishing Pier.",
         section2Share: "Share and show",
@@ -192,6 +192,25 @@
         updateApplication: "Update Application",
         deleteApplication: "Delete Application",
         createApplication: "Create Application"
+      },
+      i18nFilters: {
+        filter: "Filter",
+        byDate: "Filter by date",
+        unit: "Unit",
+        week: "Week",
+        month: "Month",
+        bySeason: "Filter by season",
+        otherFilters: "Other filters",
+        comments: "Comments",
+        panoramas: "Panoramas",
+        objects: "Objects",
+        from: "from",
+        to: "to",
+        winter: "Winter",
+        spring: "Spring",
+        summer: "Summer",
+        autumn: "Autumn",
+        trafficSigns: "Filter Traffic Signs"
       }
     });
     $translateProvider.translations("de", {
