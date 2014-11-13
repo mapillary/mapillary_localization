@@ -238,6 +238,30 @@
         button_lang_de: "Deutsch"
       }
     });
+    $translateProvider.translations("pl", {
+      landingSearch: {
+        header: "Zdjęcia świata gromadzone przez wszystkich",
+        search: "Szukaj",
+        or: "lub",
+        anywhere: "Odkrywaj miejsca na całym świecie",
+        contribute: "dodaj swoje własne…"
+      },
+      navbar: {
+        howItWorks: "Jak to działa?",
+        explore: "Odkryj",
+        business: "Biznes",
+        developers: "Deweloperzy",
+        projects: "Projekty",
+        me: "Ja",
+        myProfile: "Mój profile",
+        manualUploads: "Ręczny upload",
+        settings: "Ustawienia",
+        signOut: "Wyloguj się",
+        or: "or",
+        logIn: "Logowanie",
+        signUp: "Rejestracja"
+      }
+    });
     $translateProvider.preferredLanguage("en");
     return $translateProvider.useLocalStorage();
   });
