@@ -116,6 +116,27 @@
         metersMapped: "meters mapped",
         stillProcessing: "still processing",
         recentActivity: "Recent Activity"
+      },
+      manualUpload: {
+        title: "Manually Upload Images",
+        paragraph: "Upload images that belong together in one upload, as they will make up a",
+        path: "path",
+        chooseFiles: "Choose Files",
+        tagsRequired: "The following EXIF tags are required:",
+        thisImage: "This image",
+        goodExample: "is a good example of a the required EXIF data, created by",
+        seeAlso: "See also the post on",
+        usingActionCamera: "using an action camera with Mapillary",
+        sampleWorkflow: "for a sample workflow.",
+        terms: "By uploading files you agree to the Mapillary",
+        termsLink: "terms of service.",
+        of: "of",
+        imgUploaded: "images uploaded",
+        addMoreImages: "Add more images",
+        clearAllImages: "Clear all images",
+        imageNotUploaded: "Image not uploaded",
+        imageUploaded: "Image uploaded",
+        clickToSeeInfo: "Click on image on map to see information about image"
       }
     });
     $translateProvider.translations("de", {
