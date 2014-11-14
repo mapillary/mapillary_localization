@@ -58,7 +58,7 @@ landingWhatyoucan:
   section2Anyone: "Share a place on Mapillary to anyone. Send them a link and it will look good on both mobile and web."
   section2Embed: "You can embed a Mapillary viewer on any website with"
   section2Widget: "our widget."
-  section2Path: "With this you can show a specific path or route or leave if open for viewers to explore."
+  section2Path: "With this you can show a specific path or route or leave it open for viewers to explore."
   section2See: "See what you can do on"
   section2Example: "example page."
   section3Track: "Track a place over time"
