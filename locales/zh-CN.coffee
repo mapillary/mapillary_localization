@@ -14,70 +14,70 @@ footer:
   privacy: "私隐条款"
   cookies: "Cookies"
   more: "更多"
-  business: "商业合作" #
+  business: "解决方案" #
   developers: "开发者" #
   integrations: "合作案例" #
   embed: "插件" #"embed"
-  latestUploads: "更新"
+  latestUploads: "最新街景"
   report: "报告"
   follow: "关注我们"
 landing:
   more: "更多"
   photos: "张街景图片"
   meters: "米"
-landing_business:
-  title: "Mapillary 商业合作"
+landingBusiness:
+  title: "Mapillary 商业解决方案"
   use: "使用 Mapillary 图片"
-  service: "注册商用API授权来使用 Mapillary 的街景照片和衍生数据."
-  create: "创建项目，控制访问和分享"
-  private: "商业用户可以创建私人项目来使用Mapillary以推动内部信息分享和合作."
+  service: "注册商用API来使用 Mapillary 的街景照片和衍生数据."
+  create: "创建项目，控制访问权限和分享"
+  private: "商业用户可以创建私人项目来使用 Mapillary 以推动内部信息分享和合作."
   integrate: "融合街景"
-  gis: "使用我们的API或者Widget， 将街景融合到你的应用程序或者GIS(地理信息系统)中."
-  learn: "了解更多关于Mapillary的商业解决方案"
+  gis: "使用我们的API或者Widget， 将街景融合到你的应用程序或者地理信息系统(GIS)中."
+  learn: "了解更多 Mapillary 的商业解决方案"
 landingHow:
-  one: "1. 下载 Mapillary 应用"
+  one: "1. 下载Mapillary应用"
   oneAvailble: ""
   oneFrom: "和"
-  two: "2. 拍摄你周围的街景"
+  two: "2. 拍摄你身边的街景"
   three: "3. 浏览, 发现, 和分享街景"
 landingWhatyoucan:
   title: "你可以用Mapillary"
-  section1Map: "记录一个海滩，小镇或者地图上没有的地方"
+  section1Map: "记录一个海滩,小镇或者地图上没有的地方"
   section1Missing: "如果你住的地方没有街景，你可以创建自己的街景！"
   section1Examples: "以下是一些很鼓舞人心的例子：" #
   section1And: "和"
   section2Add: "地图上没有的路, 例如"
   section2RoadMalaysia: "这段在马来西亚的公路."
-  section2Future: "记录一个地方的历史，例如以下的一个"
+  section2Future: "记录一个地方的历史,例如以下的一个"
   section2Coastal: "海滨小镇."
   section2NoCars: "拍摄那些街景车无法进入的地方，例如美丽的"
-  section2Venice: "威尼斯海滩运河,"
+  section2Venice: "威尼斯海滩运河"
   section2Unmapped: "或者"
   section2Fishing: "威尼斯渔人码头."
   section2Share: "展示和分享"
   section2Anyone: "通过Mapillary, 在网页和移动设备上与任何人分享你到过的地方."
   section2Embed: "你可以很容易在网站上嵌入Mapillary的街景浏览功能, 通过"
-  section2Widget: "我们的 widget."
+  section2Widget: "我们的Widget."
   section2Path: "这样你可以给你的朋友，家人，或者客户在地图上展示例如一段乡间小径或在建公路."
   section2See: "以下有很多启发人的"
   section2Example: "例子."
   section3Track: "追溯一个地方的历史"
   section3Filter: "使用Mapillary时间筛选功能, 你可以穿梭时间的纬度来欣赏或者考察一个地方的变迁."
   section3Older: "比较近期和以往，或者感受同一地方四季的风光."
-  section3Places: "如果你希望对你所记录的地方保密，你也可以创建私人项目. 细节可以参考"
+  section3Places: "如果你希望对你所记录的地方保密，你也可以创建私人项目. 更多细节可以参考"
   section3Business: "我们的解决方案."
 landingSearch:
   header: "人人街景"
   search: "搜索"
   or: "或者"
-  anywhere: "搜索任何街道，小镇或者城市..."#"Search for places and roads anywhere..."
+  anywhere: "搜索任何街道,小镇或者城市..."#"Search for places and roads anywhere..."
   contribute: "创建你自己的街景"#"contribute your own"
 navbar:
   howItWorks: "如何使用"
   explore: "发现"
-  business: "商业合作"
+  business: "商业解决方案"
   developers: "开发者"
-  projects: "" #
+  projects: "項目" #
   me: "我"
   myProfile: "我的主页"
   manualUploads: "上传照片"
@@ -95,17 +95,17 @@ explore:
   noOfImg: "照片"
   toplistsTitle: "区域/国家 排名"
   toplistsParagraph: "浏览 区域/国家 排名"
-  latestUploads: "最新上传"
+  latestUploads: "最新街景"
 profile:
   uploads: "已上传" #
   connections: "联系" #
   editProfile: "设置主页"
-  uploadedImages: "上传照片"
+  uploadedImages: "上传街景照片"
   metersMapped: "米 覆盖" #
   stillProcessing: "正在处理"
   recentActivity: "最近动态"
 manualUpload:
-  title: "上传照片"
+  title: "上传街景照片"
   paragraph: "建议将属于同一地方或者路段的图片一起上传 - "
   path: "例子"
   chooseFiles: "选择文件"
@@ -113,9 +113,9 @@ manualUpload:
   thisImage: "以下的这张照片 "
   goodExample: "包含了所须的EXIF数据, 上传者:"
   seeAlso: "你也可以参照这篇博客来了解"
-  usingActionCamera: "运动相机来创造Mapillary街景"
+  usingActionCamera: "运动相机来创造 Mapillary 街景"
   sampleWorkflow: ""
-  terms: "上传照片意味着你同意以下的 Mapillary" #
+  terms: "上传照片意味着你同意以下的 Mapillary " #
   termsLink: "服务条款."
   of: "" #
   imgUploaded: "已上传照片"
@@ -198,7 +198,7 @@ i18nFilters:
   trafficSigns: "交通标志"
 i18nIm:
   aboutToFlag: "你报告有问题的照片将会由Mapillary内部检阅."
-  processingNotice: "我们的服务器正在努力处理这张图片. 感谢你的耐心等待!"
+  processingNotice: "我们正在努力处理这张图片. 感谢你的耐心等待!"
   share: "分享"
   whatProblem: "这张照片有什么潜在的问题?"
   imageRotated: "这张图片的转向不正确"
