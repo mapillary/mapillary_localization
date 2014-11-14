@@ -42,7 +42,7 @@ landingHow:
   three: "3. Surfa, utforska, och dela platser"
 landingWhatyoucan:
   title: "Vad du kan göra med Mapillary"
-  section1Map: "Kartlägga en plats, en stad, eller något nytt ställe"
+  section1Map: "Kartlägga en plats, en stad, eller ett nytt ställe"
   section1Missing: "Om din stad saknar gatubilder kan du lägga till det själv!"
   section1Examples: "Se några fantastiska exempel på"
   section1And: "och"
