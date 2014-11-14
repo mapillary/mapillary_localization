@@ -37,7 +37,7 @@ landingBusiness:
 landingHow:
   one: "1. Ladda ner Mapillary appen"
   oneAvailble: "Tillgänglig för"
-  one_from: "och från"
+  oneFrom: "och från"
   two: "2. Gå ut och ta bildsekvenser"
   three: "3. Surfa, utforska, och dela platser"
 landingWhatyoucan:

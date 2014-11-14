@@ -37,7 +37,7 @@ landingBusiness:
 landingHow:
   one: "1. Get the Mapillary app"
   oneAvailble: "Available for"
-  one_from: "and from"
+  oneFrom: "and from"
   two: "2. Go out and capture sequences"
   three: "3. Browse, explore, and share places"
 landingWhatyoucan:
