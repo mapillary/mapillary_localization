@@ -191,7 +191,7 @@ i18nFilters:
   objects: "Objetos"
   from: "desde"
   to: "hasta"
-  winter: "Hinvierno"
+  winter: "Invierno"
   spring: "Primavera"
   summer: "Verano"
   autumn: "Otoño"
