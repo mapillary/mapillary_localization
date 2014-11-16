@@ -91,7 +91,7 @@ explore:
   top5: "Top 5 mappers"
   lastWeek: "Last week"
   thisWeek: "This week"
-  user: "user"
+  user: "User"
   noOfImg: "Number of images"
   toplistsTitle: "Toplists by Region/Country"
   toplistsParagraph: "Browse and explore top contributors by region and/or country."
