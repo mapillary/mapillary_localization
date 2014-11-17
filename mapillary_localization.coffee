@@ -5,6 +5,9 @@ angular.module("mapapp").config ($translateProvider) ->
   $translateProvider.translations "de",
     <!--(bake locales/de.coffee)-->
 
+  $translateProvider.translations "da",
+  <!--(bake locales/da.coffee)-->
+
   $translateProvider.translations "pl",
     <!--(bake locales/pl.coffee)-->
 
