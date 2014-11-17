@@ -1,5 +1,5 @@
 footer:
-  getApp: "Hole dir dir Mapillary App"
+  getApp: "Hole dir die Mapillary App"
   on: "auf"
   directAndroid: "Direkter Link zur Android .apk"
   manifesto: "Manifest"
@@ -67,7 +67,7 @@ landingWhatyoucan:
   section3Places: "Wenn Sie Bilder und Projekte haben, die nicht öffentlich sein sollen, aber trotzdem volle Mapillary-Funktionalität haben wollen, gibt es"
   section3Business: "Mapillary für den professionellen Einsatz."
 landingSearch:
-  header: "Bilder für alle."
+  header: "Strassenbilder - wo du willst."
   search: "Suche"
   or: "oder"
   anywhere: "Suche nach Plätzen und Wegen weltweit ..."
