@@ -210,4 +210,4 @@ i18nIm:
   panorama: "Panorama"
   flagged: "Flagged"
   exitPanorama: "Exit Panorama"
-  lostFound: "This could be your image. Due to some app problems with Andriod App version 24 we are unable to determine the uploader of this image. If this is you, make a comment below or send us an email at hello@mapillary.com."
+  lostFound: "This could be your image. Due to some app problems with Android App version 24 we are unable to determine the uploader of this image. If this is you, make a comment below or send us an email at hello@mapillary.com."
