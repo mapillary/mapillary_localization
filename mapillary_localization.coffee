@@ -11,11 +11,14 @@ angular.module("mapapp").config ($translateProvider) ->
   $translateProvider.translations "zh-CN",
     <!--(bake locales/zh-CN.coffee)-->
 
+  $translateProvider.translations "zh-TW",
+    <!--(bake locales/zh-TW.coffee)-->
+
   $translateProvider.translations "sv",
-  <!--(bake locales/sv.coffee)-->
+    <!--(bake locales/sv.coffee)-->
 
   $translateProvider.translations "es",
-  <!--(bake locales/es.coffee)-->
+    <!--(bake locales/es.coffee)-->
 
   $translateProvider.fallbackLanguage("en")
   $translateProvider.preferredLanguage "en"
