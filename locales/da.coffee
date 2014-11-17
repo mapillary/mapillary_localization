@@ -38,7 +38,7 @@ landingHow:
   one: "1. Hent Mapillary appen"
   oneAvailble: "Fås til"
   oneFrom: "og fra"
-  two: "2. Tag og og fang nogen billeder"
+  two: "2. Tag og fang nogen billeder"
   three: "3. gennemse, undersøg og del steder"
 landingWhatyoucan:
   title: "Det kan du med Mapillary"
@@ -94,7 +94,7 @@ explore:
   user: "Bruger"
   noOfImg: "Antal billeder"
   toplistsTitle: "Hitlister Region/Land"
-  toplistsParagraph: "Så top uploauders per region eller land."
+  toplistsParagraph: "Se top uploaders per region eller land."
   latestUploads: "Seneste Uploads"
 profile:
   uploads: "Uploads"
@@ -156,7 +156,7 @@ i18nSettings:
   changePassword: "Skift Password"
   members: "Medlemmer"
   delete: "Slet"
-  addNewUser: "Tilføj nu bruger"
+  addNewUser: "Tilføj ny bruger"
   add: "Tilføj"
   projects: "Projekter"
   create: "Skab"
