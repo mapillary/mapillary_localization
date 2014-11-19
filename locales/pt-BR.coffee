@@ -210,4 +210,4 @@ i18nIm:
   panorama: "Panorama"
   flagged: "Sinalizada"
   exitPanorama: "Sair da visão de Panorama"
-  lostFound: "É possível que esta imagem seja sua. Devido a alguns problemas com a versão 24 do app de Android, nós não conseguimos identificar quem a enviou. Se foi você, faça um comentário a seguir ou envie-nos um e-mail pelo endereço hello@mapillary.com.
+  lostFound: "É possível que esta imagem seja sua. Devido a alguns problemas com a versão 24 do app de Android, nós não conseguimos identificar quem a enviou. Se foi você, faça um comentário a seguir ou envie-nos um e-mail pelo endereço hello@mapillary.com."
