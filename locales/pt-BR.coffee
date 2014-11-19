@@ -1,7 +1,7 @@
 footer:
   getApp: "Baixe o app do Mapillary"
   on: "em"
-  directAndroid: "Link direto do .apk de Android"
+  directAndroid: "Link direto do .apk para Android"
   manifesto: "Manifesto"
   about: "Sobre"
   blog: "Blog"
@@ -32,7 +32,7 @@ landingBusiness:
   create: "Crie projetos, controle o acesso."
   private: "Usuários empresariais podem criar projetos privados e controlar acesso a uma versão totalmente privada do Mapillary."
   integrate: "Integre visualizações de fotos"
-  gis: "Use nossas APIs ou widget para integrar um completo visualizador Mapillary na sua aplicação ou sistema GIS."
+  gis: "Use nossas APIs ou widget para integrar um visualizador Mapillary completo na sua aplicação ou sistema GIS."
   learn: "Saiba mais sobre nossos planos empresariais."
 landingHow:
   one: "1. Baixe o app do Mapillary"
@@ -55,7 +55,7 @@ landingWhatyoucan:
   section2Unmapped: "ou este não mapeado"
   section2Fishing: "Píer de Pesca em Veneza."
   section2Share: "Compartilhe e exiba"
-  section2Anyone: "Compartilhe um lugar no Mapillary com qualquer pessoa. Envie um link que abre bem tanto no desktop quanto no celular."
+  section2Anyone: "Compartilhe um lugar no Mapillary com qualquer pessoa. Envie um link que pode ser aberto tanto no desktop quanto no celular."
   section2Embed: "Você pode embutir um visulizador de imagens do Mapillary em qualquer site, com o"
   section2Widget: "nosso widget."
   section2Path: "Com ele você pode mostrar um caminho específico, ou deixar aberto para os visitantes do seu site explorarem os lugares."
@@ -195,7 +195,7 @@ i18nFilters:
   spring: "Primavera"
   summer: "Verão"
   autumn: "Outono"
-  trafficSigns: "Filter Traffic Signs"
+  trafficSigns: "Filtrar sinais de trânsito"
 i18nIm:
   aboutToFlag: "Você está prestes a sinalizar esta imagem para inspeção manual (realizada pela equipe do Mapillary)."
   processingNotice: "Esta imagem ainda está sendo processada! Logo ela ficará melhor, acredite."
