@@ -32,7 +32,7 @@ landingBusiness:
   create: "Projekte erstellen, den Zugang kontrollieren."
   private: "Kommerzielle Anwender können private Projekte anlegen und den Zugang zu diesen voll kontrollieren - ein privates Mapillary."
   integrate: "Fotos und Navigation integrieren"
-  gis: "Wenden sie unsere Schnittstellen oder die Widgets an, um einen kompletten Mapillary-Viewer in Ihrer Applikation, auf ihrer Webseiteoder in Ihrem GIS-System zu nutzen."
+  gis: "Wenden Sie unsere Schnittstellen oder die Widgets an, um einen kompletten Mapillary-Viewer in Ihrer Applikation, auf Ihrer Webseite oder in Ihrem GIS-System zu nutzen."
   learn: "Mehr Infos über den professionellen Einsatz"
 landingHow:
   one: "1. Hole die die Mapillary-App"
@@ -56,7 +56,7 @@ landingWhatyoucan:
   section2Fishing: "Venice Fishing Pier."
   section2Share: "Zeige und teile"
   section2Anyone: "Zeige anderen Plätze in Mapillary. Der Link ist sowohl auf dem Rechner als auch auf dem Handy gut zu sehen."
-  section2Embed: "Du kannst den Mapillary Viewer leicht in anderen Webseiten einfügen mit"
+  section2Embed: "Du kannst den Mapillary Viewer leicht in anderen Webseiten einbinden mit"
   section2Widget: "unserem Widget."
   section2Path: "Damit kannst du auch spezielle Pfade spezifizieren und Mapillary auf ausgewählten Richtungen begrenzen."
   section2See: "Einige Beispiele auf der"
