@@ -104,8 +104,8 @@ profile:
   metersMapped: "metres mapejats"
   stillProcessing: "encara processant-se"
   recentActivity: "Activitat recent "
-manualUpload:  "
-  title: "Pujar manualment imatges  
+manualUpload:
+  title: "Pujar manualment imatges"
   paragraph: "Puja les imatges que vagin juntes en una única pujada , així faran una"
   path: "ruta"
   chooseFiles: "Triar arxius"
