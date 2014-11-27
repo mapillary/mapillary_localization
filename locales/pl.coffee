@@ -161,6 +161,7 @@ i18nSettings:
   projects: "Projekty"
   create: "Utwórz"
   managedBy: "Zarządzany przez"
+  members: "Członkowie"
   developerApplications: "Aplikacje deweloperskie"
   registerNewApplication: "Zarejestruj nową aplikację"
   applicationCanAccess: "Aplikacja ma dostęp do"
