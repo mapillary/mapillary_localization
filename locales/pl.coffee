@@ -39,7 +39,7 @@ landingHow:
   oneAvailble: "Dostępna dla"
   oneFrom: "oraz z"
   two: "2. Wyjdź na zewnątrz i dokumentuj świat wokół siebie."
-  three: "3. Przeglądaj, odrkywaj i dziel się miejscami"
+  three: "3. Przeglądaj, odkrywaj i dziel się miejscami"
 landingWhatyoucan:
   title: "Co możesz zrobić z Mapillary"
   section1Map: "Mapuj miejsca znane jak i nieznane"
