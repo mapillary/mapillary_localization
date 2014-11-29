@@ -1,13 +1,13 @@
 footer:
-  getApp: "Get the Mapillary App"
+  getApp: "Installa l'App Mapillary"
   on: "on"
-  directAndroid: "Direct Android .apk link"
+  directAndroid: "Link diretto .apk Android"
   manifesto: "Manifesto"
-  about: "About"
+  about: "Chi Siamo"
   blog: "Blog"
-  howItWorks: "How It Works"
-  capture: "Capture Instructions"
-  using: "Using the App"
+  howItWorks: "Come Funziona"
+  capture: "Istruzioni di Cattura"
+  using: "Usare l'App"
   positions: "Open Positions"
   legal: "Legal"
   terms: "Terms and Conditions"
@@ -24,7 +24,7 @@ footer:
 landing:
   more: "More"
   photos: "photos"
-  meters: "meters"
+  meters: "metri"
 landingBusiness:
   title: "Mapillary for Business"
   use: "Use Mapillary photos"
@@ -36,8 +36,8 @@ landingBusiness:
   learn: "Learn more about our business plans."
 landingHow:
   one: "1. Get the Mapillary app"
-  oneAvailble: "Available for"
-  oneFrom: "and from"
+  oneAvailble: "Disponibile per"
+  oneFrom: "e da"
   two: "2. Go out and capture sequences"
   three: "3. Browse, explore, and share places"
 landingWhatyoucan:
