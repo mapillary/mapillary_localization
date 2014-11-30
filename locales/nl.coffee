@@ -100,7 +100,7 @@ profile:
   uploads: "Uploads"
   connections: "Connections"
   editProfile: "Profiel bewerken"
-  uploadedImages: "foto's uploaden"
+  uploadedImages: "geuploade foto's"
   metersMapped: "meter in kaart gebracht"
   stillProcessing: "nog in behandeling"
   recentActivity: "Recente activiteit"
