@@ -33,7 +33,7 @@ landingBusiness:
   private: "Business users can create private projects and control access for a fully private version of Mapillary."
   integrate: "Integrate photo views"
   gis: "Use our APIs or widget to integrate a complete Mapillary viewer in your application or in your GIS system."
-  learn: "Learn more about our business plans."
+  learn: "Learn more about our business plans"
 landingHow:
   one: "1. Get the Mapillary app"
   oneAvailble: "Available for"
