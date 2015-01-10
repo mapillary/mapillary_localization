@@ -146,7 +146,7 @@ i18nSettings:
   settings: "Inställningar"
   profile: "Profil"
   notifications: "Meddelanden"
-  organizations: "Organizationer"
+  organizations: "Organisationer"
   projects: "Projekt"
   applications: "Appar"
   newApplication: "Ny app"
