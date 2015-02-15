@@ -35,7 +35,7 @@ landingBusiness:
   gis: "Wenden Sie unsere Schnittstellen oder die Widgets an, um einen kompletten Mapillary-Viewer in Ihrer Applikation, auf Ihrer Webseite oder in Ihrem GIS-System zu nutzen."
   learn: "Mehr Infos über den professionellen Einsatz"
 landingHow:
-  one: "1. Hole die die Mapillary-App"
+  one: "1. Hole dir die Mapillary-App"
   oneAvailble: "für die Plattformen"
   oneFrom: "und von"
   two: "2. Gehe oder fahre und mache Bilder"
