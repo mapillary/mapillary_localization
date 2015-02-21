@@ -128,7 +128,7 @@ manualUpload:
   clickToSeeInfo: "Klicke auf das Bild um mehr Infos zu sehen"
   selectedFile: "Gewählte Datei"
   latitude: "Breitengrad:"
-  longitude: "Längengard:"
+  longitude: "Längengrad:"
   angle: "Winkel"
   uploaded: "Übermittelt"
   remove: "Löschen"
