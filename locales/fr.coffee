@@ -50,7 +50,7 @@ landingWhatyoucan:
   section2RoadMalaysia: "celle-ci en Malaisie."
   section2Future: "Enregistrez un lieu pour le futur, pour montrer à quoi il ressemblait à une époque, comme cette"
   section2Coastal: "ville côtière."
-  section2NoCars: "Cartographiez une zone qui n'est pas accessible par les voitures street view, comme ces charmants"
+  section2NoCars: "Cartographiez une zone qui n'est pas accessible par les voitures street view, comme ces charmant"
   section2Venice: "canaux de Venice Beach,"
   section2Unmapped: "ou cette jetée non cartographiée de"
   section2Fishing: "Venice."
