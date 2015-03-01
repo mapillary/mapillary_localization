@@ -204,7 +204,7 @@ i18nIm:
   imageRotated: "The image is rotated"
   imageNotBlurred: "The image is not blurred correctly"
   imageShouldHide: "The image should be hidden"
-  sequenceShouldSplit: "The sequence should be split here"
+  sequenceShouldSplit: "The sequence should be split after this image"
   ifMapillaryUser: "If you're a Mapillary user, you can manually hide the image from within the 'Edit' image options"
   send: "Send"
   panorama: "Panorama"
