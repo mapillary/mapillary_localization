@@ -1,4 +1,4 @@
-x\footer:
+footer:
   getApp: "Installa l'App Mapillary"
   on: "su"
   directAndroid: "Link diretto .apk Android"
