@@ -206,7 +206,7 @@ i18nIm:
   imageRotated: "Dieses Bild hat eine falsche Orientierung."
   imageNotBlurred: "Dieses Bild ist nicht korrekt verpixelt."
   imageShouldHide: "Dieses Bild sollte nicht gezeigt werden."
-  sequenceShouldSplit: "Diese Bilderfolge soll hier geteilt werden."
+  sequenceShouldSplit: "Diese Bilderfolge soll nach diesem Bild geteilt werden."
   ifMapillaryUser: "Wenn du ein Mapillary Anwender bist, kannst du die Bilder in der 'Bearbeiten' Sektion ändern."
   send: "Senden"
   panorama: "Panorama"
