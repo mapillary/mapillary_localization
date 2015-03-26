@@ -47,6 +47,9 @@ angular.module("mapapp").config ($translateProvider) ->
   $translateProvider.translations "sv",
     <!--(bake locales/sv.coffee)-->
 
+  $translateProvider.translations "uk",
+    <!--(bake locales/uk.coffee)-->
+
   $translateProvider.fallbackLanguage("en")
   $translateProvider.preferredLanguage("en")
   $translateProvider.useLocalStorage()
