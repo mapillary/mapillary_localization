@@ -1,7 +1,7 @@
 {
   "name": "mapillary_localization",
   "main": "mapillary_localization.js",
-  "version": "1.0.18",
+  "version": "1.0.22",
   "authors": [
     "Johan Gyllenspetz <gyllen@mapillary.com>"
   ],
