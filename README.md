@@ -1,3 +1,7 @@
+# no longer maintained
+
+---
+
 mapillary_localization
 ======================
 
