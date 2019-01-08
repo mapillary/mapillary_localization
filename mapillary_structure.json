@@ -1,0 +1,26 @@
+{
+  "description": "DEPRECTAED | Legacy localization content",
+  "frameworks": [],
+  "language": [
+    "coffeescript"
+  ],
+  "maintainers": [
+    "knikel"
+  ],
+  "providers": [
+    {
+      "dependencies": [],
+      "extDependencies": [],
+      "description": "DEPRECTAED | Legacy localization content",
+      "name": "mapillary_localization_provider",
+      "services": [
+        {
+          "description": "DEPRECTAED | Legacy localization content",
+          "name": "mapillary_localization"
+        }
+      ],
+      "type": "library"
+    }
+  ],
+  "repo": "mapillary_localization"
+}
